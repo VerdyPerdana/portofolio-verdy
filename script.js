@@ -10,6 +10,8 @@ words.forEach((word)=>{
     });
 });
 
+// tes oee
+
 let currentWordIndex = 0;
 let maxWordIndex = words.length -1;
 words[currentWordIndex].style.opacity = "1";
